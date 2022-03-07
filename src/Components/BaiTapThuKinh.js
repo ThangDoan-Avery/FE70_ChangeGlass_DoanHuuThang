@@ -70,11 +70,11 @@ export default class BaiTapThuKinh extends Component {
 
   state = {
     itemGlass: {
-      id: 9,
-      price: 60,
-      name: 'FENDI F4300',
-      url: './glassesImage/v9.png',
-      desc: 'Light pink square lenses define these sunglasses, ending with amother of pearl effect tip. ',
+      id: 0,
+      price: 0,
+      name: '',
+      url: '',
+      desc: ' ',
     },
   };
 
